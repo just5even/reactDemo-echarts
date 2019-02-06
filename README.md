@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 进入文件夹
+
+首先 `npm i` 下载需要的依赖包
+
 ## Available Scripts
 
 In the project directory, you can run:
