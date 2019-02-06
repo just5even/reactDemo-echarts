@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ### 预览图
-![Iamge text](reactDemo-echarts/img-floder/index.PNG)
+![预览图](https://github.com/just5even/reactDemo-echarts/blob/master/img-floder/index.PNG)
 
 ## 进入文件夹
 
